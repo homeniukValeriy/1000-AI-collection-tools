@@ -536,6 +536,7 @@ powered by ada. | Supporting better health outcomes and clinical excellence with
 | [Geniusreview](http://geniusreview.xyz) | Geniusreview - 360° AI Performance Reviews. | Save tons of hours by using GeniusReview to get tailored answers to your performance review questions. | :grey_question: |
 | [Reviewz](http://www.reviewz.ai) | Discover All the Top Things Recommended by Ai. | . | :grey_question: |
 | [Sona](http://www.readthistwice.com) | Read This Twice - Books Worth Reading Twice. | We spend countless hours scouring the internet for the best book recommendations from people you admire. Our database is constantly growing, and every single recommendation has been verified for authenticity and includes a link to the source. Enjoy!. | :grey_question: |
+| [LibroMatch](https://libromatch.com) | LibroMatch - Find new books similar to the one you like! | Type the name of your favorite book and its author below. Our tool will suggest similar books that you'll love. Discover your next great read today! | :white_check_mark: |
 
 
 ### Sales & Marketing
